@@ -1,1 +1,1 @@
-# CartPole-v0-PolicyGradient
+# OpenAi Gym's CartPole-v0 using policy gradient 
